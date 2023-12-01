@@ -32,12 +32,10 @@ A implementação de ferramentas na empresa Abstergo Industries tem como esperad
 
 ## Anexos
 
-[
-    - https://aws.amazon.com/ec2/autoscaling/ - Documentação Amazon EC2 Auto Scaling;
-    - https://aws.amazon.com/pt/efs/ - Documentação Amazon Elastic File System;
-    - https://aws.amazon.com/s3/storage-classes/intelligent-tiering/ - Documentação S3 Intelligent Tiering;
+- https://aws.amazon.com/ec2/autoscaling/ - Documentação Amazon EC2 Auto Scaling;
+- https://aws.amazon.com/pt/efs/ - Documentação Amazon Elastic File System;
+- https://aws.amazon.com/s3/storage-classes/intelligent-tiering/ - Documentação S3 Intelligent Tiering;
 
-]
 
 Assinatura do Responsável pelo Projeto:
 
