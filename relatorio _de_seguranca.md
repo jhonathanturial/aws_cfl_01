@@ -59,13 +59,13 @@ A implementação de ferramentas na empresa Abstergo Industries tem como esperad
 
 ## Anexos
 
-[Documentação:
+### Documentação:
 
-AWS Macie: https://aws.amazon.com/pt/macie/
-AWS Shield: https://aws.amazon.com/pt/macie/
-AWS WAF: https://aws.amazon.com/pt/waf/
+- AWS Macie: https://aws.amazon.com/pt/macie/
+- AWS Shield: https://aws.amazon.com/pt/macie/
+- AWS WAF: https://aws.amazon.com/pt/waf/
 
-]
+
 
 ## Assinatura do Responsável pelo Projeto:
 
