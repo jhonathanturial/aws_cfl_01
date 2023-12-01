@@ -37,6 +37,6 @@ A implementação de ferramentas na empresa Abstergo Industries tem como esperad
 - https://aws.amazon.com/s3/storage-classes/intelligent-tiering/ - Documentação S3 Intelligent Tiering;
 
 
-Assinatura do Responsável pelo Projeto:
+## Assinatura do Responsável pelo Projeto:
 
 Jhonathan Turial 
