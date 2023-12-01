@@ -10,7 +10,7 @@ Este relatório apresenta o processo de implementação de ferramentas na empres
 ## Descrição do Projeto
 O projeto de implementação de ferramentas foi dividido em 3 medidas de segurança. A seguir, serão descritas as etapas da implementação:
 
-Medida 1: 
+## Medida 1: 
 
 - AWS WAF
 
@@ -24,9 +24,8 @@ Casos de uso:
 
 3. Administre o AWS WAF com APIs
 
-Medida 2: 
-
-- AWS Shield 
+## Medida 2: 
+### AWS Shield 
 
 Descrição do serviço: Maximize a disponibilidade e a capacidade de resposta da aplicação com proteção contra DDoS gerenciada
 
@@ -38,9 +37,9 @@ Casos de uso:
 
 3. Monitore e proteja até mil tipos de recursos ativando a detecção, mitigação ou proteção automática para cada tipo de recurso por conta da AWS.
 
-Medida 3: 
+## Medida 3: 
 
-- AWS Macie
+### AWS Macie
 
 Descrição do serviço: É um serviço de segurança e privacidade de dados que usa machine learning (ML) e correspondência de padrões para descobrir e proteger seus dados confidenciais
 
@@ -55,6 +54,7 @@ Casos de uso:
 4. Aumente a visibilidade de dados essenciais para os negócios e segurança dos mesmos
 
 ## Conclusão
+
 A implementação de ferramentas na empresa Abstergo Industries tem como esperado preservar os pilares segurança, confiabilidade e disponibilidade, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
 ## Anexos
