@@ -12,7 +12,7 @@ O projeto de implementação de ferramentas foi dividido em 3 medidas de seguran
 
 ## Medida 1: 
 
-- AWS WAF
+### AWS WAF
 
 Descrição do serviço: Ajuda você a se proteger contra explorações comuns da Web e bots que podem afetar a disponibilidade, comprometer a segurança ou consumir recursos excessivos.
 
